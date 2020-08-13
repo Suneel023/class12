@@ -1,0 +1,39 @@
+h3{
+    color: dodgerblue;
+    font-family: Georgia;
+    text-align: center;
+}
+img{
+    height: 50pt;
+    width: 75pt;
+}
+img.homeimg{
+    height: 190pt;
+    width: 780pt;
+}
+img.mainimg{
+    height: 190pt;
+    width: 780pt;
+}
+img.profileimg{
+    height: 215pt;
+    width: 580pt;
+    outline-style:ridge;
+    position: sticky;
+    left: 22%;
+}
+img.logo{
+    height: 23pt;
+    width: 30pt;
+}
+h1{
+    color: dodgerblue;
+    font-family: Georgia;
+    text-align: center;
+}
+h2{
+    color: crimson;
+    font-family: Verdana;
+    text-align: center;
+    position: relative;
+}

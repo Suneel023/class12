@@ -1,0 +1,14 @@
+{% extends "main.html" %}
+{% load static %}
+{% block title %}
+    <title>Profile Page</title>
+{% endblock %}
+
+{% block content %}
+      <div class="container">
+        <div class="jumbotron">
+            <h2>Welcome to {{name}}'s Profile page</h2>
+            <img class="profileimg" src="{% static 'images/superman.jpg' %}" alt="No Image Found">
+        </div>
+      </div>
+{% endblock %}
